@@ -3,7 +3,7 @@
 
 int main(int argc,char* argv[])
 {
-  int base, altezza, area;
+  float base, altezza, area;
   /*  base = 5;
   altezza = 1;
   */
